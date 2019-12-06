@@ -1158,8 +1158,8 @@
 
 .data
     # File Section
-    data_file_name:         .asciiz     "/media/marlonleoner/Files/NovaPasta/ORG/Files/data.bin"
-    text_file_name:         .asciiz     "/media/marlonleoner/Files/NovaPasta/ORG/Files/text.bin"
+    data_file_name:         .asciiz     "CAMINHO_ATE_A_PASTA_DO_ARQUIVO/data.bin"
+    text_file_name:         .asciiz     "CAMINHO_ATE_A_PASTA_DO_ARQUIVO/text.bin"
     data_file_descriptor:   .space      4
     text_file_descriptor:   .space      4
 
