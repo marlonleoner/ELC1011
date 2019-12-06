@@ -72,6 +72,7 @@
     print_string    "\n\t ld - Carrega o arquivo data.bin"
     print_string    "\n\t lt - Carrega o arquivo text.bin"
     print_string    "\n\t r  - Executar instruções"
+    print_string    "\n\t d  - Estado dos registradores"
     print_string    "\n\t h  - Mostrar 'help'"
     print_string    "\n\t q  - Sair do programa"
 .end_macro
